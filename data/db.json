@@ -1,0 +1,9 @@
+{
+    "jobs": [
+        {"title": "Frontend Developer", "details": "competitive role", "id": 1},
+        {"title": "Backend Developer", "details": "competitive role", "id": 2},
+        {"title": "Data Engineer", "details": "competitive role", "id": 3},
+        {"title": "DevOps Engineer", "details": "competitive role", "id": 4}
+    ]
+   
+}
